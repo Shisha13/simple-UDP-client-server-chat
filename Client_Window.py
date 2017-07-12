@@ -1,7 +1,7 @@
 from Tkinter import*
 from Client import client
 from threading import Thread
-import tkMessageBox
+
 
 
 class Window:
